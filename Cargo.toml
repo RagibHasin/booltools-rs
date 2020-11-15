@@ -1,0 +1,15 @@
+[package]
+name = "booltools"
+version = "0.1.0"
+authors = ["Muhammad Ragib Hasin <ragib.hasin@gmail.com>"]
+edition = "2018"
+license = "MIT"
+keywords = ["bool", "boolean", "utility"]
+repository = "https://github.com/RagibHasin/booltools-rs"
+description = "Secondary boolean operations for `bool` primitive type"
+readme = "README.md"
+categories = ["utility"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
